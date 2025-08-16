@@ -8,7 +8,7 @@ Architecture: Serverless
 - [Solution Overview](#solution-overview)
 - [Architecture Diagram](#architecture-diagram)
 - [Deployment](#Deployment)
-
+-[License](#license)
 ---
 
 ***
@@ -123,3 +123,8 @@ To automate the deployment process, you can set up a GitHub Actions workflow. Th
           - name: SAM Deploy
             run: sam deploy --no-confirm-changeset --no-fail-on-empty-changeset
     ```
+***
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
