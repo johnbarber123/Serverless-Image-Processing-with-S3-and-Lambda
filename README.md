@@ -7,7 +7,7 @@ Architecture: Serverless
 # Table of Contents
 - [Solution Overview](#solution-overview)
 - [Architecture Diagram](#architecture-diagram)
-...
+
 ---
 
 ***
