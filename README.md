@@ -5,7 +5,7 @@ Architecture: Serverless
 
 
 # Table of Contents
-...
+
 - [Architecture Diagram](#architecture-diagram)
 ...
 ---
