@@ -9,8 +9,6 @@ Architecture: Serverless
 - [Architecture Diagram](#architecture-diagram)
 ...
 ---
-## Architecture Diagram
-![Serverless Image Processing Architecture Diagram](docs/Blank%20diagram.png)
 
 ***
 
@@ -45,9 +43,3 @@ This solution utilizes the following AWS services to process images:
 * ## Architecture Diagram
 ![Serverless Image Processing Architecture Diagram](docs/Blank%20diagram.png)
 
-
-The following diagram illustrates this architecture:
-
-![Serverless Image Processing Architecture](docs/Blank%20diagram.png)
-
-***
