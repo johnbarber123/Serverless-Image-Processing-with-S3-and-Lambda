@@ -8,7 +8,7 @@ Architecture: Serverless
 - [Solution Overview](#solution-overview)
 - [Architecture Diagram](#architecture-diagram)
 - [Deployment](#Deployment)
--[License](#license)
+- [License](#license)
 ---
 
 ***
