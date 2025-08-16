@@ -42,6 +42,10 @@ This solution utilizes the following AWS services to process images:
 * **Amazon DynamoDB**: (Optional) Stores metadata about the processed images.
 * **Amazon Simple Storage Service (Amazon S3)**: Stores the processed images in a separate bucket.
 
+* ## Architecture Diagram
+![Serverless Image Processing Architecture Diagram](docs/Blank%20diagram.png)
+
+
 The following diagram illustrates this architecture:
 
 ![Serverless Image Processing Architecture](docs/Blank%20diagram.png)
